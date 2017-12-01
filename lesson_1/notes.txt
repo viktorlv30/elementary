@@ -1,0 +1,4 @@
+1. What is programming language (C/C++)?
+2. What is IDE?
+3. What is directive #include
+4. Read about printf()
